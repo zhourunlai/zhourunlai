@@ -9,17 +9,18 @@ Auto updated by <a href="https://github.com/zhourunlai/zhourunlai/actions" targe
 
 <!--PART:wakatime-->
 ```text
-Python     24 hrs 36 mins ████████▓░ 87.22%
-Solidity   1 hr 45 mins   ▓░░░░░░░░░ 6.26%
-Markdown   35 mins        ▒░░░░░░░░░ 2.09%
-JSON       22 mins        ▒░░░░░░░░░ 1.33%
-YAML       19 mins        ▒░░░░░░░░░ 1.14%
-Text       14 mins        ▒░░░░░░░░░ 0.89%
-Bash       9 mins         ▒░░░░░░░░░ 0.54%
-Other      4 mins         ▒░░░░░░░░░ 0.27%
-JavaScript 2 mins         ▒░░░░░░░░░ 0.14%
-Docker     1 min          ▒░░░░░░░░░ 0.09%
-Git Config 0 secs         ▒░░░░░░░░░ 0.04%
+Python     31 hrs 14 mins ████████▓░ 89.31%
+Solidity   1 hr 46 mins   ▓░░░░░░░░░ 5.09%
+Markdown   35 mins        ▒░░░░░░░░░ 1.69%
+JSON       22 mins        ▒░░░░░░░░░ 1.07%
+YAML       19 mins        ▒░░░░░░░░░ 0.92%
+Text       14 mins        ▒░░░░░░░░░ 0.71%
+Bash       9 mins         ▒░░░░░░░░░ 0.44%
+Go         7 mins         ▒░░░░░░░░░ 0.34%
+Other      4 mins         ▒░░░░░░░░░ 0.21%
+JavaScript 2 mins         ▒░░░░░░░░░ 0.11%
+Docker     1 min          ▒░░░░░░░░░ 0.07%
+Git Config 0 secs         ▒░░░░░░░░░ 0.03%
 HTML       0 secs         ▒░░░░░░░░░ 0.01%
 ```
 <!--PART:wakatime-->

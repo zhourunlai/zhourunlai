@@ -9,19 +9,21 @@ Auto updated by <a href="https://github.com/zhourunlai/zhourunlai/actions" targe
 
 <!--PART:wakatime-->
 ```text
-Python          6 hrs 22 mins ████▓░░░░░ 49.53%
-Go              2 hrs 47 mins ██▒░░░░░░░ 21.70%
-JavaScript      1 hr 45 mins  █▒░░░░░░░░ 13.69%
-YAML            1 hr 10 mins  ▓░░░░░░░░░ 9.15%
-Git             21 mins       ▒░░░░░░░░░ 2.84%
-gitrebase       9 mins        ▒░░░░░░░░░ 1.22%
-JSON            4 mins        ▒░░░░░░░░░ 0.64%
-Protocol Buffer 4 mins        ▒░░░░░░░░░ 0.58%
-Makefile        3 mins        ▒░░░░░░░░░ 0.49%
-Charmci         0 secs        ▒░░░░░░░░░ 0.12%
-Other           0 secs        ▒░░░░░░░░░ 0.02%
+Python          6 hrs 1 min   ████▒░░░░░ 43.03%
+Go              2 hrs 47 mins █▓░░░░░░░░ 19.96%
+YAML            2 hrs 40 mins █▓░░░░░░░░ 19.15%
+JavaScript      1 hr 29 mins  █▒░░░░░░░░ 10.66%
+Git             21 mins       ▒░░░░░░░░░ 2.61%
+Bash            11 mins       ▒░░░░░░░░░ 1.40%
+Other           7 mins        ▒░░░░░░░░░ 0.93%
+JSON            4 mins        ▒░░░░░░░░░ 0.59%
+gitrebase       4 mins        ▒░░░░░░░░░ 0.57%
+Protocol Buffer 4 mins        ▒░░░░░░░░░ 0.53%
+Makefile        3 mins        ▒░░░░░░░░░ 0.45%
+Charmci         0 secs        ▒░░░░░░░░░ 0.11%
 Markdown        0 secs        ▒░░░░░░░░░ 0.01%
 TypeScript      0 secs        ▒░░░░░░░░░ 0.00%
 Text            0 secs        ▒░░░░░░░░░ 0.00%
+zsh             0 secs        ▒░░░░░░░░░ 0.00%
 ```
 <!--PART:wakatime-->

@@ -9,21 +9,19 @@ Auto updated by <a href="https://github.com/zhourunlai/zhourunlai/actions" targe
 
 <!--PART:wakatime-->
 ```text
-Python          6 hrs 1 min   ████▒░░░░░ 43.03%
-Go              2 hrs 47 mins █▓░░░░░░░░ 19.96%
-YAML            2 hrs 40 mins █▓░░░░░░░░ 19.15%
-JavaScript      1 hr 29 mins  █▒░░░░░░░░ 10.66%
-Git             21 mins       ▒░░░░░░░░░ 2.61%
-Bash            11 mins       ▒░░░░░░░░░ 1.40%
-Other           7 mins        ▒░░░░░░░░░ 0.93%
-JSON            4 mins        ▒░░░░░░░░░ 0.59%
-gitrebase       4 mins        ▒░░░░░░░░░ 0.57%
-Protocol Buffer 4 mins        ▒░░░░░░░░░ 0.53%
-Makefile        3 mins        ▒░░░░░░░░░ 0.45%
-Charmci         0 secs        ▒░░░░░░░░░ 0.11%
-Markdown        0 secs        ▒░░░░░░░░░ 0.01%
-TypeScript      0 secs        ▒░░░░░░░░░ 0.00%
-Text            0 secs        ▒░░░░░░░░░ 0.00%
+Python          6 hrs 27 mins █████▒░░░░ 50.64%
+Go              2 hrs 25 mins █▓░░░░░░░░ 19.08%
+YAML            2 hrs 15 mins █▓░░░░░░░░ 17.77%
+JavaScript      37 mins       ▒░░░░░░░░░ 4.94%
+Git             16 mins       ▒░░░░░░░░░ 2.18%
+conf            14 mins       ▒░░░░░░░░░ 1.90%
+Bash            11 mins       ▒░░░░░░░░░ 1.54%
+Other           7 mins        ▒░░░░░░░░░ 1.02%
+Makefile        3 mins        ▒░░░░░░░░░ 0.47%
+Protocol Buffer 1 min         ▒░░░░░░░░░ 0.17%
+gitrebase       1 min         ▒░░░░░░░░░ 0.13%
+Charmci         0 secs        ▒░░░░░░░░░ 0.10%
+JSON            0 secs        ▒░░░░░░░░░ 0.06%
 zsh             0 secs        ▒░░░░░░░░░ 0.00%
 ```
 <!--PART:wakatime-->

@@ -9,18 +9,18 @@ Auto updated by <a href="https://github.com/zhourunlai/zhourunlai/actions" targe
 
 <!--PART:wakatime-->
 ```text
-Python        24 hrs 59 mins ███████▓░░ 77.80%
-Lua           2 hrs 6 mins   ▓░░░░░░░░░ 6.57%
-Other         2 hrs 4 mins   ▓░░░░░░░░░ 6.45%
-gitrebase     54 mins        ▒░░░░░░░░░ 2.80%
-YAML          50 mins        ▒░░░░░░░░░ 2.63%
-Bash          39 mins        ▒░░░░░░░░░ 2.03%
-JSON          9 mins         ▒░░░░░░░░░ 0.47%
+Python        24 hrs 36 mins ███████▓░░ 78.51%
+Other         2 hrs 9 mins   ▓░░░░░░░░░ 6.88%
+Lua           2 hrs 6 mins   ▓░░░░░░░░░ 6.73%
+gitrebase     43 mins        ▒░░░░░░░░░ 2.32%
+Bash          39 mins        ▒░░░░░░░░░ 2.08%
+YAML          32 mins        ▒░░░░░░░░░ 1.72%
+JSON          9 mins         ▒░░░░░░░░░ 0.49%
 Markdown      6 mins         ▒░░░░░░░░░ 0.32%
-INI           5 mins         ▒░░░░░░░░░ 0.28%
-Charmci       3 mins         ▒░░░░░░░░░ 0.19%
-Git           2 mins         ▒░░░░░░░░░ 0.10%
-zsh           2 mins         ▒░░░░░░░░░ 0.10%
+INI           5 mins         ▒░░░░░░░░░ 0.29%
+Charmci       3 mins         ▒░░░░░░░░░ 0.20%
+zsh           2 mins         ▒░░░░░░░░░ 0.11%
+Git           1 min          ▒░░░░░░░░░ 0.10%
 Text          1 min          ▒░░░░░░░░░ 0.09%
 Docker        1 min          ▒░░░░░░░░░ 0.08%
 tmux          0 secs         ▒░░░░░░░░░ 0.04%

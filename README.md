@@ -9,20 +9,18 @@ Auto updated by <a href="https://github.com/zhourunlai/zhourunlai/actions" targe
 
 <!--PART:wakatime-->
 ```text
-Python    21 hrs 33 mins ███████▒░░ 73.50%
-Other     3 hrs 4 mins   █▒░░░░░░░░ 10.47%
-YAML      2 hrs 35 mins  ▓░░░░░░░░░ 8.85%
-gitrebase 36 mins        ▒░░░░░░░░░ 2.08%
-Lua       23 mins        ▒░░░░░░░░░ 1.35%
-Go        16 mins        ▒░░░░░░░░░ 0.94%
-INI       15 mins        ▒░░░░░░░░░ 0.87%
-Bash      11 mins        ▒░░░░░░░░░ 0.67%
-sshconfig 6 mins         ▒░░░░░░░░░ 0.39%
-Charmci   5 mins         ▒░░░░░░░░░ 0.32%
-JSON      4 mins         ▒░░░░░░░░░ 0.23%
-Markdown  3 mins         ▒░░░░░░░░░ 0.17%
-Git       1 min          ▒░░░░░░░░░ 0.11%
+Python    17 hrs 32 mins ███████▒░░ 70.02%
+Other     3 hrs 23 mins  █▒░░░░░░░░ 13.53%
+YAML      2 hrs 51 mins  █▒░░░░░░░░ 11.42%
+gitrebase 26 mins        ▒░░░░░░░░░ 1.76%
+Go        16 mins        ▒░░░░░░░░░ 1.10%
+INI       14 mins        ▒░░░░░░░░░ 0.95%
+sshconfig 6 mins         ▒░░░░░░░░░ 0.45%
+Charmci   5 mins         ▒░░░░░░░░░ 0.37%
+Markdown  3 mins         ▒░░░░░░░░░ 0.20%
+Git       1 min          ▒░░░░░░░░░ 0.13%
 CSV       0 secs         ▒░░░░░░░░░ 0.03%
+JSON      0 secs         ▒░░░░░░░░░ 0.01%
 Makefile  0 secs         ▒░░░░░░░░░ 0.00%
 ```
 <!--PART:wakatime-->

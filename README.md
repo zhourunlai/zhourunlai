@@ -9,21 +9,19 @@ Auto updated by <a href="https://github.com/zhourunlai/zhourunlai/actions" targe
 
 <!--PART:wakatime-->
 ```text
-Python     15 hrs 47 mins ██████▒░░░ 63.46%
-YAML       4 hrs 55 mins  █▓░░░░░░░░ 19.76%
-Other      2 hrs 12 mins  ▓░░░░░░░░░ 8.88%
-JSON       31 mins        ▒░░░░░░░░░ 2.10%
-Go         20 mins        ▒░░░░░░░░░ 1.39%
-Charmci    16 mins        ▒░░░░░░░░░ 1.13%
-sshconfig  11 mins        ▒░░░░░░░░░ 0.75%
-Bash       10 mins        ▒░░░░░░░░░ 0.71%
-Git        9 mins         ▒░░░░░░░░░ 0.62%
-Docker     9 mins         ▒░░░░░░░░░ 0.61%
-gitrebase  7 mins         ▒░░░░░░░░░ 0.48%
-INI        0 secs         ▒░░░░░░░░░ 0.07%
-CSV        0 secs         ▒░░░░░░░░░ 0.03%
-JavaScript 0 secs         ▒░░░░░░░░░ 0.01%
-Text       0 secs         ▒░░░░░░░░░ 0.01%
-Markdown   0 secs         ▒░░░░░░░░░ 0.00%
+Python     12 hrs 9 mins ██████▒░░░ 60.54%
+YAML       4 hrs 58 mins ██▒░░░░░░░ 24.80%
+Other      1 hr 19 mins  ▓░░░░░░░░░ 6.64%
+JSON       31 mins       ▒░░░░░░░░░ 2.60%
+gitrebase  24 mins       ▒░░░░░░░░░ 2.04%
+Charmci    16 mins       ▒░░░░░░░░░ 1.39%
+sshconfig  11 mins       ▒░░░░░░░░░ 0.93%
+INI        5 mins        ▒░░░░░░░░░ 0.50%
+Git        2 mins        ▒░░░░░░░░░ 0.20%
+Go         2 mins        ▒░░░░░░░░░ 0.19%
+Docker     1 min         ▒░░░░░░░░░ 0.13%
+Text       0 secs        ▒░░░░░░░░░ 0.05%
+JavaScript 0 secs        ▒░░░░░░░░░ 0.01%
+Markdown   0 secs        ▒░░░░░░░░░ 0.00%
 ```
 <!--PART:wakatime-->

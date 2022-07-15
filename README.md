@@ -9,18 +9,19 @@ Auto updated by <a href="https://github.com/zhourunlai/zhourunlai/actions" targe
 
 <!--PART:wakatime-->
 ```text
-Python     13 hrs 18 mins ████▓░░░░░ 47.47%
-YAML       8 hrs 12 mins  ██▓░░░░░░░ 29.30%
-Other      4 hrs 26 mins  █▓░░░░░░░░ 15.87%
-Charmci    41 mins        ▒░░░░░░░░░ 2.47%
-gitrebase  33 mins        ▒░░░░░░░░░ 2.00%
-Go         30 mins        ▒░░░░░░░░░ 1.79%
-Makefile   11 mins        ▒░░░░░░░░░ 0.71%
-Bash       5 mins         ▒░░░░░░░░░ 0.35%
-Text       0 secs         ▒░░░░░░░░░ 0.01%
-JSON       0 secs         ▒░░░░░░░░░ 0.01%
-Docker     0 secs         ▒░░░░░░░░░ 0.01%
-Markdown   0 secs         ▒░░░░░░░░░ 0.00%
-JavaScript 0 secs         ▒░░░░░░░░░ 0.00%
+Python     8 hrs 36 mins ███▓░░░░░░ 37.31%
+YAML       7 hrs 41 mins ███▒░░░░░░ 33.36%
+Other      5 hrs 2 mins  ██▒░░░░░░░ 21.89%
+Charmci    41 mins       ▒░░░░░░░░░ 2.98%
+Go         30 mins       ▒░░░░░░░░░ 2.18%
+gitrebase  13 mins       ▒░░░░░░░░░ 0.95%
+Makefile   11 mins       ▒░░░░░░░░░ 0.86%
+Bash       5 mins        ▒░░░░░░░░░ 0.42%
+Text       0 secs        ▒░░░░░░░░░ 0.02%
+JSON       0 secs        ▒░░░░░░░░░ 0.01%
+Docker     0 secs        ▒░░░░░░░░░ 0.01%
+Markdown   0 secs        ▒░░░░░░░░░ 0.00%
+Git        0 secs        ▒░░░░░░░░░ 0.00%
+JavaScript 0 secs        ▒░░░░░░░░░ 0.00%
 ```
 <!--PART:wakatime-->

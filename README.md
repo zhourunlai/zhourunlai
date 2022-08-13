@@ -9,13 +9,20 @@ Auto updated by <a href="https://github.com/zhourunlai/zhourunlai/actions" targe
 
 <!--PART:wakatime-->
 ```text
-Python    14 hrs 6 mins ████████▓░ 86.67%
-Git       32 mins       ▒░░░░░░░░░ 3.28%
-gitrebase 29 mins       ▒░░░░░░░░░ 2.99%
-Other     26 mins       ▒░░░░░░░░░ 2.71%
-YAML      14 mins       ▒░░░░░░░░░ 1.48%
-INI       12 mins       ▒░░░░░░░░░ 1.24%
-Charmci   11 mins       ▒░░░░░░░░░ 1.20%
-Text      4 mins        ▒░░░░░░░░░ 0.43%
+Python     19 hrs 21 mins ██████▓░░░ 68.80%
+YAML       3 hrs 44 mins  █▒░░░░░░░░ 13.32%
+Other      1 hr 44 mins   ▓░░░░░░░░░ 6.18%
+Text       59 mins        ▒░░░░░░░░░ 3.51%
+Go         37 mins        ▒░░░░░░░░░ 2.22%
+Charmci    30 mins        ▒░░░░░░░░░ 1.79%
+HTML       20 mins        ▒░░░░░░░░░ 1.24%
+Git        18 mins        ▒░░░░░░░░░ 1.11%
+gitrebase  15 mins        ▒░░░░░░░░░ 0.93%
+JavaScript 7 mins         ▒░░░░░░░░░ 0.47%
+JSON       2 mins         ▒░░░░░░░░░ 0.17%
+TOML       1 min          ▒░░░░░░░░░ 0.10%
+Smarty     1 min          ▒░░░░░░░░░ 0.07%
+INI        0 secs         ▒░░░░░░░░░ 0.06%
+Makefile   0 secs         ▒░░░░░░░░░ 0.04%
 ```
 <!--PART:wakatime-->

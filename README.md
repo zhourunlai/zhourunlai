@@ -9,26 +9,22 @@ Auto updated by <a href="https://github.com/zhourunlai/zhourunlai/actions" targe
 
 <!--PART:wakatime-->
 ```text
-Python     32 hrs 17 mins █████▒░░░░ 54.58%
-JavaScript 12 hrs 35 mins ██▒░░░░░░░ 21.28%
-HTML       7 hrs 15 mins  █▒░░░░░░░░ 12.25%
-JSON       2 hrs 57 mins  ▒░░░░░░░░░ 4.99%
-Other      1 hr 49 mins   ▒░░░░░░░░░ 3.07%
-CSS        34 mins        ▒░░░░░░░░░ 0.98%
-Text       27 mins        ▒░░░░░░░░░ 0.77%
-INI        23 mins        ▒░░░░░░░░░ 0.65%
-Crontab    16 mins        ▒░░░░░░░░░ 0.47%
-YAML       12 mins        ▒░░░░░░░░░ 0.35%
-Markdown   7 mins         ▒░░░░░░░░░ 0.22%
-sshconfig  3 mins         ▒░░░░░░░░░ 0.11%
-Smarty     3 mins         ▒░░░░░░░░░ 0.10%
-Git        2 mins         ▒░░░░░░░░░ 0.08%
-Bash       2 mins         ▒░░░░░░░░░ 0.08%
+Python     28 hrs 46 mins █████▒░░░░ 52.56%
+JavaScript 12 hrs 35 mins ██▒░░░░░░░ 22.99%
+HTML       6 hrs 41 mins  █▒░░░░░░░░ 12.23%
+JSON       2 hrs 57 mins  ▓░░░░░░░░░ 5.41%
+Other      1 hr 40 mins   ▒░░░░░░░░░ 3.05%
+YAML       50 mins        ▒░░░░░░░░░ 1.54%
+CSS        34 mins        ▒░░░░░░░░░ 1.06%
+Crontab    16 mins        ▒░░░░░░░░░ 0.51%
+Markdown   5 mins         ▒░░░░░░░░░ 0.16%
+Charmci    4 mins         ▒░░░░░░░░░ 0.12%
+Smarty     3 mins         ▒░░░░░░░░░ 0.11%
+Git        2 mins         ▒░░░░░░░░░ 0.09%
+Bash       2 mins         ▒░░░░░░░░░ 0.09%
+INI        2 mins         ▒░░░░░░░░░ 0.07%
 Solidity   0 secs         ▒░░░░░░░░░ 0.01%
-Git Config 0 secs         ▒░░░░░░░░░ 0.00%
 TypeScript 0 secs         ▒░░░░░░░░░ 0.00%
-Charmci    0 secs         ▒░░░░░░░░░ 0.00%
-TOML       0 secs         ▒░░░░░░░░░ 0.00%
 SQL        0 secs         ▒░░░░░░░░░ 0.00%
 ```
 <!--PART:wakatime-->

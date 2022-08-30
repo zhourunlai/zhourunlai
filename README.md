@@ -9,18 +9,17 @@ Auto updated by <a href="https://github.com/zhourunlai/zhourunlai/actions" targe
 
 <!--PART:wakatime-->
 ```text
-Python     34 hrs 25 mins ████████▓░ 88.44%
-Other      1 hr 33 mins   ▒░░░░░░░░░ 3.98%
-YAML       1 hr 15 mins   ▒░░░░░░░░░ 3.22%
-JSON       26 mins        ▒░░░░░░░░░ 1.12%
-Text       18 mins        ▒░░░░░░░░░ 0.81%
-JavaScript 18 mins        ▒░░░░░░░░░ 0.77%
-Markdown   9 mins         ▒░░░░░░░░░ 0.40%
-Git        7 mins         ▒░░░░░░░░░ 0.34%
-INI        7 mins         ▒░░░░░░░░░ 0.33%
-TOML       4 mins         ▒░░░░░░░░░ 0.21%
-Charmci    4 mins         ▒░░░░░░░░░ 0.17%
-sshconfig  2 mins         ▒░░░░░░░░░ 0.11%
-HTML       2 mins         ▒░░░░░░░░░ 0.09%
+Python     32 hrs 52 mins ████████▓░ 89.24%
+Other      1 hr 47 mins   ▒░░░░░░░░░ 4.88%
+YAML       1 hr 15 mins   ▒░░░░░░░░░ 3.41%
+Text       19 mins        ▒░░░░░░░░░ 0.88%
+Markdown   9 mins         ▒░░░░░░░░░ 0.43%
+INI        7 mins         ▒░░░░░░░░░ 0.35%
+Git        5 mins         ▒░░░░░░░░░ 0.23%
+TOML       4 mins         ▒░░░░░░░░░ 0.22%
+Charmci    4 mins         ▒░░░░░░░░░ 0.18%
+sshconfig  2 mins         ▒░░░░░░░░░ 0.12%
+JSON       1 min          ▒░░░░░░░░░ 0.05%
+JavaScript 0 secs         ▒░░░░░░░░░ 0.01%
 ```
 <!--PART:wakatime-->

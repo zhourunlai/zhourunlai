@@ -15,6 +15,5 @@ Properties 23 mins        ▒░░░░░░░░░ 0.85%
 Git        20 mins        ▒░░░░░░░░░ 0.74%
 YAML       14 mins        ▒░░░░░░░░░ 0.53%
 Text       5 mins         ▒░░░░░░░░░ 0.21%
-sshconfig  0 secs         ▒░░░░░░░░░ 0.00%
 ```
 <!--PART:wakatime-->

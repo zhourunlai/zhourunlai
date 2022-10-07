@@ -9,11 +9,8 @@ Auto updated by <a href="https://github.com/zhourunlai/zhourunlai/actions" targe
 
 <!--PART:wakatime-->
 ```text
-Python  8 hrs 40 mins ████████▓░ 89.38%
-YAML    37 mins       ▓░░░░░░░░░ 6.49%
-Other   20 mins       ▒░░░░░░░░░ 3.44%
-Text    1 min         ▒░░░░░░░░░ 0.30%
-Git     1 min         ▒░░░░░░░░░ 0.30%
-Charmci 0 secs        ▒░░░░░░░░░ 0.09%
+Python 2 hrs 58 mins ████████▒░ 83.95%
+YAML   19 mins       ▓░░░░░░░░░ 9.09%
+Other  14 mins       ▓░░░░░░░░░ 6.96%
 ```
 <!--PART:wakatime-->

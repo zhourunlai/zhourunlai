@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-
-## WakaTime
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 

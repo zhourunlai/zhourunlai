@@ -6,7 +6,7 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2073 commits        ███████████████░░░░░░░░░░   61.46 % 
+🌞 Morning                2074 commits        ███████████████░░░░░░░░░░   61.47 % 
 🌆 Daytime                705 commits         █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
 🌃 Evening                503 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
 🌙 Night                  92 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
@@ -14,13 +14,13 @@
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   350 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+Monday                   350 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
 Tuesday                  538 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
-Wednesday                685 commits         █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
+Wednesday                685 commits         █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
 Thursday                 592 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
-Friday                   429 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
+Friday                   429 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
 Saturday                 414 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
-Sunday                   365 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+Sunday                   366 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
 ```
 
 
@@ -28,10 +28,11 @@ Sunday                   365 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-CSV                      2 mins              █████████████████████████   100.00 % 
+YAML                     5 mins              ████████████████░░░░░░░░░   64.78 % 
+CSV                      2 mins              █████████░░░░░░░░░░░░░░░░   35.22 % 
 
 💻 Operating System: 
-Mac                      2 mins              █████████████████████████   100.00 % 
+Mac                      7 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 

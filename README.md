@@ -1,13 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%2031%20mins-blue?style=flat)
-
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2077 commits        ███████████████░░░░░░░░░░   61.50 % 
-🌆 Daytime                705 commits         █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
+🌞 Morning                2078 commits        ███████████████░░░░░░░░░░   61.52 % 
+🌆 Daytime                705 commits         █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
 🌃 Evening                503 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
 🌙 Night                  92 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 ```
@@ -17,10 +15,10 @@
 Monday                   351 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
 Tuesday                  539 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
 Wednesday                686 commits         █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
-Thursday                 592 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
+Thursday                 593 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
 Friday                   429 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
 Saturday                 414 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-Sunday                   366 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+Sunday                   366 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
 ```
 
 

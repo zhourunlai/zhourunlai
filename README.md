@@ -6,8 +6,8 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2127 commits        ███████████████░░░░░░░░░░   61.46 % 
-🌆 Daytime                738 commits         █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
+🌞 Morning                2127 commits        ███████████████░░░░░░░░░░   61.44 % 
+🌆 Daytime                739 commits         █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
 🌃 Evening                504 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
 🌙 Night                  92 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
 ```
@@ -16,8 +16,8 @@
 ```text
 Monday                   363 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
 Tuesday                  551 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-Wednesday                698 commits         █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
-Thursday                 604 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+Wednesday                698 commits         █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
+Thursday                 605 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
 Friday                   441 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
 Saturday                 426 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
 Sunday                   378 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
@@ -28,20 +28,20 @@ Sunday                   378 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    3 hrs 30 mins       █████████████░░░░░░░░░░░░   53.65 % 
-Python                   1 hr 13 mins        █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
-Markdown                 39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
-YAML                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
-TypeScript               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+Other                    2 hrs 42 mins       ████████████░░░░░░░░░░░░░   47.22 % 
+Python                   1 hr 13 mins        █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
+Markdown                 39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+YAML                     36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+TypeScript               20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
 
 💻 Operating System: 
-Mac                      6 hrs 31 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 1 min (92.13%)
+⏱ AI Coding Time: 5 hrs 13 mins (91.03%)
 
 ✍️ 242 lines written by AI, 58 lines written by hand (80.67% AI-written)
 
@@ -49,14 +49,14 @@ Mac                      6 hrs 31 mins       ███████████�
 
 💵 $2.73 Estimated AI Cost This Week
 
-🧠 44 AI Sessions, 77 AI Prompts
+🧠 38 AI Sessions, 56 AI Prompts
 
 GPT                      242 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 80.67% of written lines came from AI
-📝 Concise Prompter — average 51 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📝 Concise Prompter — average 63 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 26.22% of changed lines were hand-edited
 ```
 
